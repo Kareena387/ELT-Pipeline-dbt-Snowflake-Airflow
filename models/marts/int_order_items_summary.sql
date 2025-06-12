@@ -1,3 +1,5 @@
+-- ## Create marts/int_order_items_summary.sql to aggregate info
+
 select 
     order_key,
     sum(extended_price) as gross_item_sales_amount,

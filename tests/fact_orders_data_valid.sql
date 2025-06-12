@@ -1,3 +1,5 @@
+-- ## Create tests/fct_orders_date_valid.sql
+
 select
     *
 from

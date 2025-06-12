@@ -1,4 +1,4 @@
-//building singular tests
+//## Build Singular Tests tests/fct_orders_discount.sql
 
 select
     *

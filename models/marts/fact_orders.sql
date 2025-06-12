@@ -1,3 +1,5 @@
+-- ##create fact model models/marts/fct_orders.sql
+
 select
     orders.*,
     order_item_summary.gross_item_sales_amount,

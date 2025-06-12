@@ -1,3 +1,7 @@
+
+-- ### Step 5: Transform models (fact tables, data marts)
+
+Create Intermediate table
 select
     line_item.order_item_key,
     line_item.part_key,
